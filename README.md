@@ -16,7 +16,7 @@ Bot Discord này sử dụng Generative AI của Google để tạo phản hồi
 1. Sao chép kho lưu trữ này:
 
  ``` bash
- bản sao git https://github.com/erenofficial
+ git clone https://github.com/erenofficial/AI-GOOGLE-GEMINI
  ```
 
 2. Điều hướng đến thư mục dự án:
